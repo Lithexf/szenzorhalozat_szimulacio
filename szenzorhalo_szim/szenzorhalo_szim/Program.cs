@@ -11,6 +11,8 @@ namespace szenzorhalo_szim
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+
+            //teszt push
         }
     }
 }
