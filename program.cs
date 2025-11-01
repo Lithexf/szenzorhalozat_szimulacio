@@ -11,6 +11,7 @@ namespace beadando_v2
         static void Main(string[] args)
         {
           //hello world
+          console.WriteLine("Hello, World!");
         }
     }
 }
