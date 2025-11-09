@@ -1,4 +1,4 @@
-# szenzorhalozat_szimulacio
+# szenzorhalozat_szimulacio @ C# .NET Framework
 Félévi beadandó feladat - Szenzorhálózat szimulációja @ C# .NET Framework
 
 
