@@ -17,3 +17,14 @@ használni kell:
 - DLL használat
 - LINQ függvények 3 db különböző legyen benne. 
 
+az alábbi módon működjön a logika:
+
+>5 db random szám generálása 0 és 500 között
+
+>ha 3 db 400 feletti akkor : Áradás esemény lép életbe
+
+>ha nem akkor: átlagos viz szint
+
+>5 db mérést szimuálunk, a hét minden napjára, hétfőtől péntekig
+
+>az 5db mérést, számmal, azonositoval, és mért mennyiséggel együtt JSON-be tároljuk el 
