@@ -1,0 +1,60 @@
+C:\Users\marti\source\repos\MeresKonyvtar\MeresKonyvtar\bin\Debug\MeresKonyvtar.dll
+C:\Users\marti\source\repos\MeresKonyvtar\MeresKonyvtar\bin\Debug\MeresKonyvtar.pdb
+C:\Users\marti\source\repos\MeresKonyvtar\MeresKonyvtar\obj\Debug\MeresKonyvtar.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\MeresKonyvtar\MeresKonyvtar\obj\Debug\MeresKonyvtar.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\MeresKonyvtar\MeresKonyvtar\obj\Debug\MeresKonyvtar.dll
+C:\Users\marti\source\repos\MeresKonyvtar\MeresKonyvtar\obj\Debug\MeresKonyvtar.pdb
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\MeresKonyvtar.dll
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\MeresKonyvtar.pdb
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Buffers.dll
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.IO.Pipelines.dll
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Memory.dll
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Text.Json.dll
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Buffers.xml
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.IO.Pipelines.xml
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Memory.xml
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Text.Json.xml
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\obj\Debug\MeresKonyvtar.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\obj\Debug\MeresKonyvtar.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\obj\Debug\MeresKon.870295C5.Up2Date
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\obj\Debug\MeresKonyvtar.dll
+C:\Users\marti\Desktop\közös projekt\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\obj\Debug\MeresKonyvtar.pdb
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\MeresKonyvtar.dll
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\MeresKonyvtar.pdb
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Buffers.dll
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Memory.dll
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Text.Json.dll
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Buffers.xml
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Memory.xml
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Text.Json.xml
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\obj\Debug\MeresKonyvtar.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\obj\Debug\MeresKonyvtar.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\obj\Debug\MeresKon.870295C5.Up2Date
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\obj\Debug\MeresKonyvtar.dll
+C:\Users\Martin\Desktop\MeresKonyvtar\MeresKonyvtar\MeresKonyvtar\obj\Debug\MeresKonyvtar.pdb
