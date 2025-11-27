@@ -1,0 +1,184 @@
+[
+  {
+    "Nap": "H\u00E9tf\u0151",
+    "Meresek": [
+      {
+        "SzenzorID": 1,
+        "VizszintCm": 317
+      },
+      {
+        "SzenzorID": 2,
+        "VizszintCm": 445
+      },
+      {
+        "SzenzorID": 3,
+        "VizszintCm": 427
+      },
+      {
+        "SzenzorID": 4,
+        "VizszintCm": 365
+      },
+      {
+        "SzenzorID": 5,
+        "VizszintCm": 116
+      }
+    ],
+    "Statusz": "Magas V\u00EDzszint Vesz\u00E9lye"
+  },
+  {
+    "Nap": "Kedd",
+    "Meresek": [
+      {
+        "SzenzorID": 1,
+        "VizszintCm": 174
+      },
+      {
+        "SzenzorID": 2,
+        "VizszintCm": 158
+      },
+      {
+        "SzenzorID": 3,
+        "VizszintCm": 472
+      },
+      {
+        "SzenzorID": 4,
+        "VizszintCm": 342
+      },
+      {
+        "SzenzorID": 5,
+        "VizszintCm": 263
+      }
+    ],
+    "Statusz": "\u00C1tlagos v\u00EDzszint:"
+  },
+  {
+    "Nap": "Szerda",
+    "Meresek": [
+      {
+        "SzenzorID": 1,
+        "VizszintCm": 345
+      },
+      {
+        "SzenzorID": 2,
+        "VizszintCm": 24
+      },
+      {
+        "SzenzorID": 3,
+        "VizszintCm": 479
+      },
+      {
+        "SzenzorID": 4,
+        "VizszintCm": 445
+      },
+      {
+        "SzenzorID": 5,
+        "VizszintCm": 287
+      }
+    ],
+    "Statusz": "Magas V\u00EDzszint Vesz\u00E9lye"
+  },
+  {
+    "Nap": "Cs\u00FCt\u00F6rt\u00F6k",
+    "Meresek": [
+      {
+        "SzenzorID": 1,
+        "VizszintCm": 202
+      },
+      {
+        "SzenzorID": 2,
+        "VizszintCm": 387
+      },
+      {
+        "SzenzorID": 3,
+        "VizszintCm": 162
+      },
+      {
+        "SzenzorID": 4,
+        "VizszintCm": 116
+      },
+      {
+        "SzenzorID": 5,
+        "VizszintCm": 247
+      }
+    ],
+    "Statusz": "\u00C1tlagos v\u00EDzszint:"
+  },
+  {
+    "Nap": "P\u00E9ntek",
+    "Meresek": [
+      {
+        "SzenzorID": 1,
+        "VizszintCm": 442
+      },
+      {
+        "SzenzorID": 2,
+        "VizszintCm": 442
+      },
+      {
+        "SzenzorID": 3,
+        "VizszintCm": 406
+      },
+      {
+        "SzenzorID": 4,
+        "VizszintCm": 449
+      },
+      {
+        "SzenzorID": 5,
+        "VizszintCm": 476
+      }
+    ],
+    "Statusz": "\u00C1rad\u00E1s! "
+  },
+  {
+    "Nap": "Szombat",
+    "Meresek": [
+      {
+        "SzenzorID": 1,
+        "VizszintCm": 392
+      },
+      {
+        "SzenzorID": 2,
+        "VizszintCm": 90
+      },
+      {
+        "SzenzorID": 3,
+        "VizszintCm": 168
+      },
+      {
+        "SzenzorID": 4,
+        "VizszintCm": 30
+      },
+      {
+        "SzenzorID": 5,
+        "VizszintCm": 7
+      }
+    ],
+    "Statusz": "\u00C1tlagos v\u00EDzszint:"
+  },
+  {
+    "Nap": "Vas\u00E1rnap",
+    "Meresek": [
+      {
+        "SzenzorID": 1,
+        "VizszintCm": 22
+      },
+      {
+        "SzenzorID": 2,
+        "VizszintCm": 306
+      },
+      {
+        "SzenzorID": 3,
+        "VizszintCm": 423
+      },
+      {
+        "SzenzorID": 4,
+        "VizszintCm": 243
+      },
+      {
+        "SzenzorID": 5,
+        "VizszintCm": 1
+      }
+    ],
+    "Statusz": "\u00C1tlagos v\u00EDzszint:"
+  }
+]

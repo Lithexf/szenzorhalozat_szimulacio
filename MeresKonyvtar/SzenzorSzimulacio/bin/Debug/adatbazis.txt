@@ -1,0 +1,36 @@
+Nap;SzenzorID;Vizszint;Statusz
+Hétfő;1;317;Magas Vízszint Veszélye
+Hétfő;2;445;Magas Vízszint Veszélye
+Hétfő;3;427;Magas Vízszint Veszélye
+Hétfő;4;365;Magas Vízszint Veszélye
+Hétfő;5;116;Magas Vízszint Veszélye
+Kedd;1;174;Átlagos vízszint:
+Kedd;2;158;Átlagos vízszint:
+Kedd;3;472;Átlagos vízszint:
+Kedd;4;342;Átlagos vízszint:
+Kedd;5;263;Átlagos vízszint:
+Szerda;1;345;Magas Vízszint Veszélye
+Szerda;2;24;Magas Vízszint Veszélye
+Szerda;3;479;Magas Vízszint Veszélye
+Szerda;4;445;Magas Vízszint Veszélye
+Szerda;5;287;Magas Vízszint Veszélye
+Csütörtök;1;202;Átlagos vízszint:
+Csütörtök;2;387;Átlagos vízszint:
+Csütörtök;3;162;Átlagos vízszint:
+Csütörtök;4;116;Átlagos vízszint:
+Csütörtök;5;247;Átlagos vízszint:
+Péntek;1;442;Áradás! 
+Péntek;2;442;Áradás! 
+Péntek;3;406;Áradás! 
+Péntek;4;449;Áradás! 
+Péntek;5;476;Áradás! 
+Szombat;1;392;Átlagos vízszint:
+Szombat;2;90;Átlagos vízszint:
+Szombat;3;168;Átlagos vízszint:
+Szombat;4;30;Átlagos vízszint:
+Szombat;5;7;Átlagos vízszint:
+Vasárnap;1;22;Átlagos vízszint:
+Vasárnap;2;306;Átlagos vízszint:
+Vasárnap;3;423;Átlagos vízszint:
+Vasárnap;4;243;Átlagos vízszint:
+Vasárnap;5;1;Átlagos vízszint:
