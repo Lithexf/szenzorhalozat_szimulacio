@@ -96,11 +96,56 @@ namespace SzenzorSzimulacio
             Console.ResetColor();
             Console.WriteLine("");
         }
-    } 
-    // Csürke Martin ---
+        // Csürke Martin ---
+
+        static void SargaKiiro(string uzenet)
+        {
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.BackgroundColor = ConsoleColor.Yellow;
+            Console.Write(uzenet);
+            //visszaállítjuk a színt
+            Console.ResetColor();
+            Console.WriteLine("");
+        }
 
 
+        static void mentes(List<NapiMeres> adatok)
+        {
+            //JSON fájlba mentés
+            string jsonString = System.Text.Json.JsonSerializer.Serialize(adatok, new JsonSerializerOptions { WriteIndented = true });
+            File.WriteAllText("meresek.json", jsonString);
 
-    
+            // elmentjük a méréseket szöveges fájlban
+            using (StreamWriter sw = new StreamWriter("adatbazis.txt"))
+            {
+                sw.WriteLine("Nap;SzenzorID;Vizszint;Statusz");
+                foreach (var napAdat in adatok)
+                {
+                    foreach (var meres in napAdat.Meresek)
+                    {
+                        sw.WriteLine($"{napAdat.Nap};{meres.SzenzorID};{meres.VizszintCm};{napAdat.Statusz}");
+                    }
+                }
+            }
+
+            //elmentjük adatbázisban
+            var db = new LiteDatabase("Filename=adatok.db; Connection=shared;");
+            var meresek = db.GetCollection<NapiMeres>();
+            foreach (var meres in adatok)
+            {
+                meresek.Insert(meres);
+            }
+        }
+
+    }
+
+    class NapiMeres
+    {
+        public string Nap { get; set; }
+        public List<MeresAdat> Meresek { get; set; }
+        public string Statusz { get; set; }
+    }
 }
+
+
 // Csürke Martin ---
