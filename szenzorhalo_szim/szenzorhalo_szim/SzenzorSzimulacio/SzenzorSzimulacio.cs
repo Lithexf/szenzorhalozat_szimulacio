@@ -98,9 +98,9 @@ namespace SzenzorSzimulacio
         }
     } 
     // Csürke Martin ---
-
-
-
     
+
+
+
 }
 // Csürke Martin ---
