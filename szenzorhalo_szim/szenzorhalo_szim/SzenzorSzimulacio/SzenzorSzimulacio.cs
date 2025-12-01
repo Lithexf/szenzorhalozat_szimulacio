@@ -12,15 +12,16 @@ namespace SzenzorSzimulacio
     class SzenzorSzimulacio
     {
         public delegate void AradasEsemenykezelo(string uzenet);
-        public static event AradasEsemenykezelo OnAradas;
+        public static event AradasEsemenykezelo OnAradas; //esemenykezeles dekralacio
 
         static void Main(string[] args)
         {
             Console.WriteLine("Szenzorhálózati Szimuláció");
             Console.WriteLine("Vízszint mérő program");
             Console.CursorVisible = false;
-
-            OnAradas += FigyelmeztetesKiiro;
+            
+            //esemeny kezeles: amikor onaradas bekovetkezik akkor figyelmezteteskiiro futtatas lesz
+            OnAradas += FigyelmeztetesKiiro; //esemenykezeles 
             SzenzorMeresGeneralas generator = new SzenzorMeresGeneralas();
             List<NapiMeres> hetiAdatok = new List<NapiMeres>();
             string[] napok = { "Hétfő", 
@@ -57,9 +58,10 @@ namespace SzenzorSzimulacio
                 if (kritikusErtekekSzama >= 3) //kondició
                 {
                     statusz = "Áradás! ";
+                    // ?-el ellenőrizzük nem e NULL az esemény, ha nem null akkor elindítjuk az eseményt
                     OnAradas?.Invoke($"Áradás Történt! (Kritikus Értékek: {kritikusErtekekSzama}db!)");
                 }
-                else if (kritikusErtekekSzama >= 2)  //kis figyelmeztetés
+                else if (kritikusErtekekSzama >= 2)  //kis figyelmeztetés display
                 {
                     statusz = "Magas Vízszint Veszélye";
                     Console.BackgroundColor = ConsoleColor.Yellow;
@@ -87,8 +89,9 @@ namespace SzenzorSzimulacio
             Console.WriteLine("\nProgram vége, Gomb nyomásra kiléphet!");
             Console.ReadKey();
         }
-        static void FigyelmeztetesKiiro(string uzenet)
+        static void FigyelmeztetesKiiro(string uzenet) //esemeny kezeles utolso resz
         {
+            //figyelmeztetes kiiras skin
             Console.ForegroundColor = ConsoleColor.White;
             Console.BackgroundColor = ConsoleColor.Red;
             Console.Write(uzenet);
@@ -139,6 +142,7 @@ namespace SzenzorSzimulacio
 
     }
 
+    //get set
     class NapiMeres
     {
         public string Nap { get; set; }
@@ -149,3 +153,4 @@ namespace SzenzorSzimulacio
 
 
 // Csürke Martin ---
+
