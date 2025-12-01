@@ -1,6 +1,8 @@
+//DLL-t készítette: Udvardy Balázs
+
+
 using System;
 using System.Collections.Generic;
-//DLL Balázs
 namespace MeresKonyvtar
 {
 
@@ -51,3 +53,5 @@ namespace MeresKonyvtar
         }
     }
 }
+
+//DLL-t készítette: Udvardy Balázs
