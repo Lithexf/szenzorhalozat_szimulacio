@@ -1,3 +1,14 @@
+//Fő konzol applikációt: Sallai Martin & Csürke Martin készítette
+//dll referencia hozzáadás & bugg fix: Udvardy Balázs
+//lite db: Csürke Martin
+//bug fixing: Csürke Martin
+//fő logika & eseménykezelés: Sallai Martin
+//összehangolás: Csürke Martin, Sallai Martin
+//dokumentáció: Udvardy Balázs
+//team managment: Sallai Martin
+//final review: Udvardy Balázs & Csürke Martin & Sallai Martin
+//bug fixing 2.0: Sallai Martin
+
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -153,4 +164,5 @@ namespace SzenzorSzimulacio
 
 
 // Csürke Martin ---
+
 
